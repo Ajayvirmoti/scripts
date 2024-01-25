@@ -1,0 +1,53 @@
+#With:       reflector @/etc/xdg/reflector/reflector.conf
+# When:       2023-02-15 20:01:39 UTC
+# From:       https://archlinux.org/mirrors/status/json/
+# Retrieved:  2023-02-15 20:01:39 UTC
+# Last Check: 2023-02-15 19:51:57 UTC
+
+#Mirrors List for Arch Linux
+
+# list- 1
+
+Server = https://mirror.theash.xyz/arch/$repo/os/$arch
+Server = https://de.arch.mirror.kescher.at/$repo/os/$arch
+Server = https://mirror.ubrco.de/archlinux/$repo/os/$arch
+Server = https://mirror.telepoint.bg/archlinux/$repo/os/$arch
+Server = https://packages.oth-regensburg.de/archlinux/$repo/os/$arch
+Server = https://mirror.ufscar.br/archlinux/$repo/os/$arch
+Server = https://arch.hu.fo/archlinux/$repo/os/$arch
+Server = https://mirror.sunred.org/archlinux/$repo/os/$arch
+Server = https://arch.kyberorg.fi/$repo/os/$arch
+Server = https://mirror.selfnet.de/archlinux/$repo/os/$arch
+Server = https://mirrors.xtom.de/archlinux/$repo/os/$arch
+Server = https://mirror.sahil.world/archlinux/$repo/os/$arch
+Server = https://mirror.mia11.us.leaseweb.net/archlinux/$repo/os/$arch
+Server = https://mirror.sfo12.us.leaseweb.net/archlinux/$repo/os/$arch
+Server = https://mirror.mirohost.net/archlinux/$repo/os/$arch
+Server = https://ftp.fau.de/archlinux/$repo/os/$arch
+Server = https://arch.yhtez.xyz/$repo/os/$arch
+Server = https://mirror.kumi.systems/archlinux/$repo/os/$arch
+Server = https://mirror.fsmg.org.nz/archlinux/$repo/os/$arch
+Server = https://plug-mirror.rcac.purdue.edu/archlinux/$repo/os/$arch
+
+# ML 2
+
+ Server = https://mirror.cyberbits.eu/archlinux/$repo/os/$arch
+ 12 Server = https://archlinux.thaller.ws/$repo/os/$arch
+ 13 Server = https://arch.mirror.constant.com/$repo/os/$arch
+ 14 Server = https://mirror.pseudoform.org/$repo/os/$arch
+ 15 Server = https://arch.phinau.de/$repo/os/$arch
+ 16 Server = https://at.arch.mirror.kescher.at/$repo/os/$arch
+ 17 Server = https://de.arch.mirror.kescher.at/$repo/os/$arch
+ 18 Server = https://mirror.funami.tech/arch/$repo/os/$arch
+ 19 Server = https://mirror.theo546.fr/archlinux/$repo/os/$arch
+ 20 Server = https://asia.mirror.pkgbuild.com/$repo/os/$arch
+ 21 Server = https://seoul.mirror.pkgbuild.com/$repo/os/$arch
+ 22 Server = https://sydney.mirror.pkgbuild.com/$repo/os/$arch
+ 23 Server = https://mirror.ubrco.de/archlinux/$repo/os/$arch
+ 24 Server = https://mirror.telepoint.bg/archlinux/$repo/os/$arch
+ 25 Server = https://mirror.f4st.host/archlinux/$repo/os/$arch
+ 26 Server = https://mirror.sunred.org/archlinux/$repo/os/$arch
+ 27 Server = https://ftp.halifax.rwth-aachen.de/archlinux/$repo/os/$arch
+ 28 Server = https://mirror.ufscar.br/archlinux/$repo/os/$arch
+ 29 Server = https://archlinux.uk.mirror.allworldit.com/archlinux/$repo/os/$arch
+ 30 Server = https://america.mirror.pkgbuild.com/$repo/os/$arch
