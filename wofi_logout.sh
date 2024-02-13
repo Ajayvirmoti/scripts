@@ -5,4 +5,4 @@ exit
 ⏻ poweroff="systemctl poweroff"
 ↺ reboot="systemctl reboot"
 ⏾ sleep="systemctl suspend"
-🗝 logout="~/scripts/logout.sh"
+🗝 logout="swaylock"
